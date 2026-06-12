@@ -4,7 +4,6 @@ app  = FastAPI()
 
 
 #  home route
-#  
 @app.get("/")
 def greet():
     return "Hello, World!"
@@ -19,3 +18,8 @@ Products = [
 @app.get("/products")
 def get_products():
     return Products
+
+
+@app.get("/products/{product_id}")
+def get_product(product_id: int):
+    return Products[product_id - 1]
