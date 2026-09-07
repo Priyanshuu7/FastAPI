@@ -1,0 +1,54 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "age": 45,
+      "gender": "Male",
+      "bloodType": "B+",
+      "diagnosis": "Hypertension",
+      "admissionDate": "2026-05-10",
+      "contact": "9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "age": 32,
+      "gender": "Female",
+      "bloodType": "O+",
+      "diagnosis": "Type 2 Diabetes",
+      "admissionDate": "2026-05-22",
+      "contact": "9123456780"
+    },
+    {
+      "id": 3,
+      "name": "Amit Verma",
+      "age": 60,
+      "gender": "Male",
+      "bloodType": "A-",
+      "diagnosis": "Coronary Artery Disease",
+      "admissionDate": "2026-06-01",
+      "contact": "9988776655"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Patel",
+      "age": 27,
+      "gender": "Female",
+      "bloodType": "AB+",
+      "diagnosis": "Asthma",
+      "admissionDate": "2026-06-08",
+      "contact": "9090909090"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "age": 50,
+      "gender": "Male",
+      "bloodType": "O-",
+      "diagnosis": "Chronic Kidney Disease",
+      "admissionDate": "2026-06-10",
+      "contact": "9112233445"
+    }
+  ]
+}
